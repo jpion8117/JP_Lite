@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JP_Lite", "JP_Lite\JP_Lite.csproj", "{B219AF22-0775-457F-B8BD-1A833381F38C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A3052672-A6E7-401B-A793-A4A9A43E8154}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B219AF22-0775-457F-B8BD-1A833381F38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B219AF22-0775-457F-B8BD-1A833381F38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B219AF22-0775-457F-B8BD-1A833381F38C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B219AF22-0775-457F-B8BD-1A833381F38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B219AF22-0775-457F-B8BD-1A833381F38C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B219AF22-0775-457F-B8BD-1A833381F38C}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {400FFCAD-B79D-4311-9A87-A42842671A12}
+	EndGlobalSection
+EndGlobal

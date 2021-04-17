@@ -1,0 +1,9 @@
+﻿This bot can run several basic commands on this server. To initiate a command, use the '!' to tell the bot to listen to your command. All commands follow a simple format as follows !command arguments. The bot will post this message if mentioned.
+
+COMMANDS:
+	MOVE - Usage: Drop a set of linked messages in two different channels to redirect a conversation from one channel to another. Example: !move #otherChannel (please note this command ONLY works when replying to a message otherwise it would be hard to find the original conversation.)
+	GUIDE - Usage: Get a quick discription of the intended use of the channel and any rules the server admin may have set for it. Example: !guide
+	HELP - Usage: Display this message again or recieve a PM containing these instructions. Example: !help to post to the channel you're issuing the command from OR !help pm to recieve a personal message with these instructions.
+
+ADMIN COMMANDS:
+	ADDGUIDE - Usage: Adds a guide to the channel it's posted in. Example: !addGuide Text you want to display when user calls the guide command including any server rules. Text fomatting is preserved and the command will begin capturing the guide info after the first space or newline following the command
